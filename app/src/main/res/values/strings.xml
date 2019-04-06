@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Socio Connect</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="register_now"><u>Register Now</u></string>
+    <string name="login_now"><u>Login</u></string>
+</resources>
